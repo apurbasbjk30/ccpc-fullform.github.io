@@ -32,7 +32,8 @@
     height: 250px;
     margin: 60px auto;
     border-radius: 50%;
-    background-color: #f2f2f2;
+    background-color:#2CC879;
+    background: radial-gradient(at center, #2CC879, #1BCADF);;
     background-size: cover;
     background-position: center center;
 }
